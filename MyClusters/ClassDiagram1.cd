@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyClusters.FrmMain" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKCAHBgCAMCIBgAQCBggCCCAOAAACIAAAQDAgIwQE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.MyPoint" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sAAAIAAgAAABBAQAYAcCAAQAAAAAABAAAEBAAAAEBgA=</HashCode>
+      <FileName>MyPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Program" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.RandUtils" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAARAAAAUAA=</HashCode>
+      <FileName>RandUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterBase" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAACAACQBFAAAJCCAACCkAEBAAQAEsAgAgACAAAA=</HashCode>
+      <FileName>Clusterers\ClusterBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterCL" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAA=</HashCode>
+      <FileName>Clusterers\ClusterCL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterEM" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAAJCAAAAIABAAIEQAoAAJCACAA4AAgAAwAAAQ=</HashCode>
+      <FileName>Clusterers\ClusterEM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterFSCL" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAAAAAAAAAAAAAAAAoAAAIAAAAAA=</HashCode>
+      <FileName>Clusterers\ClusterFSCL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterKMeans" Collapsed="true">
+    <Position X="20.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Clusterers\ClusterKMeans.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterL2PenalizedEM" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAQAAA=</HashCode>
+      <FileName>Clusterers\ClusterL2PenalizedEM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterPenalizedEM" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAQAAA=</HashCode>
+      <FileName>Clusterers\ClusterPenalizedEM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterPRPEM" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAABAAAAAAAAAAIAAIAAAQAAA=</HashCode>
+      <FileName>Clusterers\ClusterPRPEM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterRPCL" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAIIAAAAAA=</HashCode>
+      <FileName>Clusterers\ClusterRPCL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Clusterers.ClusterRPEM" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAIAAAAAAA=</HashCode>
+      <FileName>Clusterers\ClusterRPEM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Distances.DistanceBase" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAQAAAAAABAAAAABEAAAAQ=</HashCode>
+      <FileName>Distances\DistanceBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Distances.DistanceCosine" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Distances\DistanceCosine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Distances.DistanceEuclidian" Collapsed="true">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Distances\DistanceEuclidian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Distances.DistanceManhattan" Collapsed="true">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Distances\DistanceManhattan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.MatUtils.MyMatUtils" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatUtils\MatUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.PointConfig.PointConfigBase" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgAAAAAACBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PointConfig\PointConfigBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.PointConfig.PointConfigFromFile" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PointConfig\PointConfigFromFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.PointConfig.PointConfigHand" Collapsed="true">
+    <Position X="6.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PointConfig\PointConfigHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Properties.Resources" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClusters.Properties.Settings" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

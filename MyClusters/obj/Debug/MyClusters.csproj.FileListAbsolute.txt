@@ -1,0 +1,13 @@
+E:\Code\C#\MyClusters\MyClusters\bin\Debug\MyClusters.exe.config
+E:\Code\C#\MyClusters\MyClusters\bin\Debug\MyClusters.exe
+E:\Code\C#\MyClusters\MyClusters\bin\Debug\MyClusters.pdb
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.csprojResolveAssemblyReference.cache
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.FrmMain.resources
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.Properties.Resources.resources
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.csproj.GenerateResource.cache
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.csproj.CoreCompileInputs.cache
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.exe
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.pdb
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.FrmParams.resources
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.FrmAnalyze.resources
+E:\Code\C#\MyClusters\MyClusters\obj\Debug\MyClusters.FrmModelSelect.resources
